@@ -1,0 +1,5 @@
+{
+  "name": "Hệ Thống Quản Lý Lớp Học",
+  "description": "Ứng dụng điểm danh, theo dõi bài tập, camera và nhận xét học sinh theo từng buổi học.",
+  "requestFramePermissions": []
+}
